@@ -23,14 +23,13 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   </a>
 </p>
 
-<img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI"> <summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 - 📪 Mail me at: echonoshy@gmail.com
 - 💬 If you want know me more, please subscribe my [BiliBili channel](https://space.bilibili.com/65742859).
 
 ---
 
-</details>
 
 <!--my introduction end -->
 
