@@ -1,4 +1,4 @@
-<h2><img src="src/hellokittydance.gif" alt="Hi" width="42" /> 🙌🏻 Hi, there! Welcome to my github. 🦾</h2>
+<h2><img src="src/hellokittydance.gif" alt="Hi" width="42" /> Hi, there!  Welcome to my github. 🦾</h2>
 
 I'm `Lake`, an AI algorithm engineer. My main research areas include large language models, natural language processing, and auto speech recognize technology. Currently, I am working in a financial technology company focusing on these areas. If you are also interested in these fields, feel free to contact me.
 
@@ -35,6 +35,7 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
 
 <br>
 
+<img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
  
 **Languages and Frameworks**
