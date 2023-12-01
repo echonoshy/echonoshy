@@ -15,11 +15,8 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   - 🎀 AI Emotional Companion
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="JackHCC's Stats" >
-    -->
+  <a href="https://github.com/echonoshy" class="rich-diff-level-one">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Lake's Stats" >
   </a>
 </p>
 
