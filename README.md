@@ -5,7 +5,7 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
 > Some Professional Certificates:
 
   - 🔭 [Information Technology Project Management Professional](https://www.ruankao.org.cn/platform/details?code=03_01)
-  - 🌱 [Certified Global Financial Technology Specialist](https://www.cgftedu.com/)
+  - 🌱 [Chartered Global FinTech](https://www.cgftedu.com/)
   - 🌟 [Project Management Professional](https://www.pmi.org/certifications/project-management-pmp)
 
 > What I am Concentrated on Recently:
