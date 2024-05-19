@@ -1,7 +1,6 @@
 <h2><img src="src/hellokittydance.gif" alt="Hi" width="42" /> Hi, there!  Welcome to my github. 🦾</h2>
 
-I'm `Lake`, an AI algorithm engineer. My main research areas include large language models, natural language processing, and auto speech recognize technology. Currently, I am working in a financial technology company focusing on these areas. If you are also interested in these fields, feel free to contact me.
-
+I'm `Lake`, an AI algorithm engineer. My main research areas include large language models, natural language processing, and auto speech recognize technology. 
 > Some Professional Certificates:
 
   - 🔭 [Information Technology Project Management Professional](https://www.ruankao.org.cn/platform/details?code=03_01)
@@ -9,8 +8,7 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   - 🌟 [Project Management Professional](https://www.pmi.org/certifications/project-management-pmp)
 
 > What I am Concentrated on Recently:
-  - 🍉 AI Agents
-  - 📺 GPTs
+  - 🍉 RAG / GenAI
   - 🧏‍♀️ Virtual Human
   - 🎀 AI Emotional Companion
 
