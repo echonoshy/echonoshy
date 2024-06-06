@@ -8,9 +8,9 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   - 🌟 [Project Management Professional](https://www.pmi.org/certifications/project-management-pmp)
 
 > What I am Concentrated on Recently:
-  - 🍉 RAG / GenAI
-  - 🧏‍♀️ Virtual Human
-  - 🎀 AI Emotional Companion
+  - 🚣‍♂️ LLM / GenAI / Rag
+  - 🤽‍♀️ Telsale system
+  - 🏄‍♀️ ASR / TTS
 
 <p align="center">
   <a href="https://github.com/echonoshy" class="rich-diff-level-one">
