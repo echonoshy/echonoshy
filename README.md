@@ -18,13 +18,20 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   </a>
 </p>
 
-<img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI"> <summary><em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/echonoshy/echonoshy/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI"> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<summary><em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/echonoshy/echonoshy/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 - 📪 Mail me at: echonoshy@gmail.com
 - 💬 If you want know me more, please subscribe my [BiliBili channel](https://space.bilibili.com/65742859).
 
 ---
-
 
 <!--my introduction end -->
 
