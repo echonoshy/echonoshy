@@ -14,7 +14,7 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
 
 <p align="center">
   <a href="https://github.com/echonoshy" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Lake's Stats" width="80%">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Lake's Stats" width="50%">
   </a>
 </p>
 
