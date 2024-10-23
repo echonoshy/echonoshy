@@ -14,15 +14,15 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
 
 <p align="center">
   <a href="https://github.com/echonoshy" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Lake's Stats" >
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Lake's Stats" width="80%">
   </a>
 </p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="60%"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" width="60%"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="60%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" width="80%"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="80%"/>
   </picture>
 </div>
 
