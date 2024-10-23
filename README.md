@@ -18,11 +18,11 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   </a>
 </p>
 
-<div align="center" style="transform: scale(0.4);">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="60%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" width="60%"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="60%"/>
   </picture>
 </div>
 
