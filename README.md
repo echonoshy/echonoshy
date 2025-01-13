@@ -8,6 +8,13 @@
   <em>AI Algorithm Engineer | LLM Researcher | Open Source Contributor | BiliBili Creator</em>
 </p>
 
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-echonoshy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
+  [![BiliBili](https://img.shields.io/badge/BiliBili-Channel-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
+  [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
+  
+</div>
 
 ### 🏆 Professional Certifications
 
@@ -15,16 +22,23 @@
 - 💹 [Chartered Global FinTech](https://www.cgftedu.com/)
 - ⭐ [Project Management Professional (PMP)](https://www.pmi.org/certifications/project-management-pmp)
 
- 
 <div align="center">
   <table>
     <tr>
-      <td width="40%">
-        <a href="https://github.com/echonoshy" class="rich-diff-level-one">
-          <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Echonoshy's Stats" width="100%">
-        </a>
+      <td>
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=echonoshy&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=echonoshy&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=echonoshy&show_icons=true" />
+        </picture>
       </td>
-      <td width="60%">
+      <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg"/>
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg"/>
@@ -36,28 +50,8 @@
 </div>
 
 <div align="center">
-  <h3>🤝 Let's Connect!</h3>
-  <p><em>Love to discuss ideas and collaborate on exciting projects! Feel free to reach out for a chat.</em></p>
-</div>
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-echonoshy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
-  [![BiliBili](https://img.shields.io/badge/BiliBili-Channel-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
-  [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
-  
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/echonoshy/echonoshy/main/assets/hr.gif" width="100%" height="1px">
 </div>
-
-
-<!--my introduction end -->
-
-<!-- <br> -->
-
-<!-- <img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp; -->
 
 **Programming Languages**
 
