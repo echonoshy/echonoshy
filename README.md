@@ -1,6 +1,6 @@
 <h2><img src="src/hellokittydance.gif" alt="Hi" width="42" /> Hi, there!  Welcome to my github. 🦾</h2>
 
-I'm `Lake`, an AI algorithm engineer. My main research areas include large language models, natural language processing, and auto speech recognize technology. 
+I'm `Echonoshy`, an AI algorithm engineer. My main research areas include LLMs, NLP, and ASR technology. 
 > Some Professional Certificates:
 
   - 🔭 [Information Technology Project Management Professional](https://www.ruankao.org.cn/platform/details?code=03_01)
@@ -8,13 +8,11 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   - 🌟 [Project Management Professional](https://www.pmi.org/certifications/project-management-pmp)
 
 > What I am Concentrated on Recently:
-  - 🚣‍♂️ LLM / GenAI / Rag
-  - 🤽‍♀️ Telsale system
-  - 🏄‍♀️ ASR / TTS
+  - 💭 Agents / LLM Workflow / ASR / TTS
 
 <p align="center">
   <a href="https://github.com/echonoshy" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Lake's Stats" width="50%">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Echonoshy's Stats" width="50%">
   </a>
 </p>
 
@@ -26,11 +24,22 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
   </picture>
 </div>
 
-<img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI"> 
-<summary><em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/echonoshy/echonoshy/issues/new" >say <b>"hi 👋" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<div align="center">
+  <img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI">
+  <h3>🤝 Connect With Me</h3>
+  <p><em>I love connecting with different people and sharing ideas! If you want to say <b><a href="https://github.com/echonoshy/echonoshy/issues/new">Hi 👋</a></b>, I'll be happy to meet you more!</em></p>
+</div>
 
-- 📪 Mail me at: echonoshy@gmail.com
-- 💬 If you want know me more, please subscribe my [BiliBili channel](https://space.bilibili.com/65742859).
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-echonoshy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
+  [![BiliBili](https://img.shields.io/badge/BiliBili-Channel-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
+  [![Youtube](https://img.shields.io/badge/GitHub-echonoshy-181717?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/echonoshy/echonoshy/main/assets/hr.gif" width="100%" height="1px">
+</div>
 
 ---
 
@@ -38,32 +47,57 @@ I'm `Lake`, an AI algorithm engineer. My main research areas include large langu
 
 <br>
 
-<img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp; -->
 
- 
-**Languages and Frameworks**
+**Programming Languages**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="src/icon/Typescript.svg.png" alt="Typescript" title="Typescript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291328-d57affa6-dba3-4ba1-90ff-25cb273fcd84.png" alt="MongoDB" title="mongodb"></code>
-<code><img height="20" src="src/icon/Postgresql_elephant.svg.png" alt="PostgreSql" title="PostgreSql"></code>
-<code><img height="20" src="src/icon/Unity_2021.svg.png" alt="Unity" title="Unity"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="src/icon/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
+**AI & Machine Learning**
 
-**Tools and Environments**
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-<code><img height="20" src="src/icon/OpenAI_Logo.svg.png" alt="OpenAI" title="OpenAI"></code>
-<code><img height="20" src="src/icon/Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-    
+**Web & API Frameworks**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+**Databases & Storage**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+**Development & IDE**
+
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+**DevOps & Cloud**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+**Operating Systems**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+
 <br>
