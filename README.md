@@ -9,32 +9,30 @@
 </p>
 
 
-###  🍺 Current Focus
-- 🤖 LLM Agents & Workflow Development
-- 🗣️ Speech Recognition (ASR) & Synthesis (TTS)
-- 🧠 App Applications
-
 ### 🏆 Professional Certifications
-<details>
-<summary>View Certifications</summary>
 
 - 🎓 [Information Technology Project Management Professional](https://www.ruankao.org.cn/platform/details?code=03_01)
 - 💹 [Chartered Global FinTech](https://www.cgftedu.com/)
 - ⭐ [Project Management Professional (PMP)](https://www.pmi.org/certifications/project-management-pmp)
-</details>
 
-<p align="center">
-  <a href="https://github.com/echonoshy" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Echonoshy's Stats" width="50%">
-  </a>
-</p>
-
+ 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="80%"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg" width="80%"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="80%"/>
-  </picture>
+  <table>
+    <tr>
+      <td width="40%">
+        <a href="https://github.com/echonoshy" class="rich-diff-level-one">
+          <img src="https://readme-stats-server-jackcc.vercel.app/api?username=echonoshy&title_color=333&text_color=777" alt="Echonoshy's Stats" width="100%">
+        </a>
+      </td>
+      <td width="60%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg"/>
+          <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -54,11 +52,10 @@
   <img src="https://raw.githubusercontent.com/echonoshy/echonoshy/main/assets/hr.gif" width="100%" height="1px">
 </div>
 
----
 
 <!--my introduction end -->
 
-<br>
+<!-- <br> -->
 
 <!-- <img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp; -->
 
