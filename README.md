@@ -1,14 +1,27 @@
-<h2><img src="src/hellokittydance.gif" alt="Hi" width="42" /> Hi, there!  Welcome to my github. 🦾</h2>
+<h2 align="center">
+  <img src="src/hellokittydance.gif" alt="Hi" width="42" /> 
+  Hey there! Welcome to My Github  
+  <img src="src/giphy.gif" width="42" title="Say Hi"> 
+</h2>
 
-I'm `Echonoshy`, an AI algorithm engineer. My main research areas include LLMs, NLP, and ASR technology. 
-> Some Professional Certificates:
+<p align="center">
+  <em>AI Algorithm Engineer | LLM Researcher | Open Source Contributor | BiliBili Creator</em>
+</p>
 
-  - 🔭 [Information Technology Project Management Professional](https://www.ruankao.org.cn/platform/details?code=03_01)
-  - 🌱 [Chartered Global FinTech](https://www.cgftedu.com/)
-  - 🌟 [Project Management Professional](https://www.pmi.org/certifications/project-management-pmp)
 
-> What I am Concentrated on Recently:
-  - 💭 Agents / LLM Workflow / ASR / TTS
+###  🍺 Current Focus
+- 🤖 LLM Agents & Workflow Development
+- 🗣️ Speech Recognition (ASR) & Synthesis (TTS)
+- 🧠 App Applications
+
+### 🏆 Professional Certifications
+<details>
+<summary>View Certifications</summary>
+
+- 🎓 [Information Technology Project Management Professional](https://www.ruankao.org.cn/platform/details?code=03_01)
+- 💹 [Chartered Global FinTech](https://www.cgftedu.com/)
+- ⭐ [Project Management Professional (PMP)](https://www.pmi.org/certifications/project-management-pmp)
+</details>
 
 <p align="center">
   <a href="https://github.com/echonoshy" class="rich-diff-level-one">
@@ -25,16 +38,16 @@ I'm `Echonoshy`, an AI algorithm engineer. My main research areas include LLMs, 
 </div>
 
 <div align="center">
-  <img align="right" alt="GIF" src="src/giphy.gif" width="84" title="Say HI">
-  <h3>🤝 Connect With Me</h3>
-  <p><em>I love connecting with different people and sharing ideas! If you want to say <b><a href="https://github.com/echonoshy/echonoshy/issues/new">Hi 👋</a></b>, I'll be happy to meet you more!</em></p>
+  <h3>🤝 Let's Connect!</h3>
+  <p><em>Love to discuss ideas and collaborate on exciting projects! Feel free to reach out for a chat.</em></p>
 </div>
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-echonoshy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
   [![BiliBili](https://img.shields.io/badge/BiliBili-Channel-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
-  [![Youtube](https://img.shields.io/badge/GitHub-echonoshy-181717?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
+  [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
+  
 </div>
 
 <div align="center">
