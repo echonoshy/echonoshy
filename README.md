@@ -10,7 +10,8 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-echonoshy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-echonoshy@gmail.com-FF6F00?style=flat-square&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
+  [![WeChat](https://img.shields.io/badge/WeChat-echonoshy--copilot-07C160?style=flat-square&logo=wechat&logoColor=white)](https://wechat.com)
   [![BiliBili](https://img.shields.io/badge/BiliBili-Channel-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
   [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
   
