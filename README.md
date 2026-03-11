@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=%F0%9F%A4%96+AI+Algorithm+Engineer+%7C+Audio+AI;%F0%9F%A6%9E+OpenClaw+Explorer+%7C+Agent+Builder+%7C+%E4%BA%8C%E6%AC%A1%E5%85%83" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=%F0%9F%A4%96+AI+Algorithm+Engineer+%7C+Audio+AI;%F0%9F%A6%9E+OpenClaw+Explorer+%7C+Agent+Builder+%7C+%E4%BA%8C%E6%AC%A1%E5%85%83" alt="Typing SVG" />
   </a>
 </div>
 
@@ -75,7 +75,7 @@ class Echonoshy:
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=echonoshy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=echonoshy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
