@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=%F0%9F%A4%96+AI+Algorithm+Engineer+%7C+LLM+%26+Audio+AI;%F0%9F%A6%9E+OpenClaw+Contributor+%7C+Agent+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=%F0%9F%A4%96+AI+Algorithm+Engineer+%7C+Audio+AI;%F0%9F%A6%9E+OpenClaw+Explorer+%7C+Agent+Builder+%7C+%E4%BA%8C%E6%AC%A1%E5%85%83" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,40 +17,36 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" src="src/code.gif" width="280" />
+<img align="right" src="src/bg1.gif" width="340" />
 
 ```python
-#!/usr/bin/env python3
-
 class Echonoshy:
     def __init__(self):
         self.role = "AI Algorithm Engineer"
         self.language_spoken = ["zh_CN", "en_US"]
-        self.code = ["Python", "C++", "TypeScript", "Go"]
+        self.code = ["Python", "C++", "TypeScript", "Rust"]
         self.expertise = {
             "agent": "AI Agent architecture & orchestration",
             "audio": "Speech/Audio large model dev",
-            "llm": "LLM fine-tuning & deployment",
         }
-        self.current_focus = "OpenClaw 🦞"
-        self.daily_routine = [
-            "☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"
-        ]
+        self.current_focus = "Exploring OpenClaw 🦞"
+        self.hobbies = ["Anime", "Manga", "日本語勉強中"]
+        self.waifu = None  # still searching...
+        self.daily_routine = ["☕ Coffee", "💻 Code", "📺 Anime"]
 
     def say_hi(self):
-        print("Let's build something cool together 🚀")
+        print("僕の仕事はコードを書くこと、趣味はアニメを見ること。")
 
-me = Echonoshy()
-me.say_hi()
 ```
 
 <br/>
 
-- 🔭 Working on **[OpenClaw](https://github.com/OpenClaw)** — embodied AI 🦞
+- 🦞 Exploring **[OpenClaw](https://github.com/OpenClaw)** — embodied AI
 - 🎙️ Experienced in **Audio/Speech Large Model Dev**
 - 🤖 Building **AI Agent** systems & orchestration
 - 🌱 Exploring **Multi-modal AI & RAG Systems**
 - 🎥 Creating on **[BiliBili](https://space.bilibili.com/65742859)** & **[YouTube](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)**
+- 📺 Anime lover & proud weeb programmer ⛩️
 
 <br clear="both"/>
 
@@ -152,6 +148,8 @@ me.say_hi()
 <div align="center">
   <img src="src/hellokittydance.gif" width="30" />
   <em> If you like what you see, mass-produce a ⭐ on my repos! </em>
+  <br/>
+  <sub>「コードは芸術だ。」 — a senior weeb engineer</sub>
   <img src="src/hellokittydance.gif" width="30" />
 </div>
 
