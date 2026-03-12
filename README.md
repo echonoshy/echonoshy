@@ -137,9 +137,10 @@ class Echonoshy:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-echonoshy@gmail.com-FF6F00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-echonoshy--copilot-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://wechat.com)
+[![WeChat](https://img.shields.io/badge/WeChat-echonoshy-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://wechat.com)
 [![BiliBili](https://img.shields.io/badge/BiliBili-echonoshy-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
 [![YouTube](https://img.shields.io/badge/YouTube-echonoshy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
+[![Feishu](https://img.shields.io/badge/Feishu-飞书-3370FF?style=for-the-badge&logo=bytedance&logoColor=white)](https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g==)
 
 </div>
 
