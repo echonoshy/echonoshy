@@ -12,6 +12,7 @@
   <a href="mailto:echonoshy@gmail.com"><img src="https://img.shields.io/badge/Gmail-echonoshy-FF6F00?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://space.bilibili.com/65742859"><img src="https://img.shields.io/badge/BiliBili-echonoshy-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA"><img src="https://img.shields.io/badge/YouTube-echonoshy-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g=="><img src="https://img.shields.io/badge/Feishu-飞书-3370FF?style=flat-square&logo=bytedance&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=echonoshy&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
@@ -25,6 +26,8 @@
 - 🌱 Exploring **Multi-modal AI & RAG Systems**
 - 🎥 Creating on **[BiliBili](https://space.bilibili.com/65742859)** & **[YouTube](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)**
 - 📺 Anime lover & proud weeb programmer ⛩️
+
+-  *人不能同时拥有青春和对青春的感受, 青春忙于生活， 认知忙于自省* 
 
 <br clear="both"/>
 
@@ -91,20 +94,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-echonoshy@gmail.com-FF6F00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echonoshy@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-echonoshy-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://wechat.com)
-[![BiliBili](https://img.shields.io/badge/BiliBili-echonoshy-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/65742859)
-[![YouTube](https://img.shields.io/badge/YouTube-echonoshy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA)
-[![Feishu](https://img.shields.io/badge/Feishu-飞书-3370FF?style=for-the-badge&logo=bytedance&logoColor=white)](https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g==)
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="src/hellokittydance.gif" width="30" />
