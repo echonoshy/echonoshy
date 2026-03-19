@@ -17,29 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" src="src/bg1.gif" width="340" />
-
-```python
-class Echonoshy:
-    def __init__(self):
-        self.role = "AI Algorithm Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-        self.code = ["Python", "C++", "TypeScript", "Rust"]
-        self.expertise = {
-            "agent": "AI Agent architecture & orchestration",
-            "audio": "Speech/Audio large model dev",
-        }
-        self.current_focus = "Exploring OpenClaw 🦞"
-        self.hobbies = ["Anime", "Manga", "日本語勉強中"]
-        self.waifu = None  # still searching...
-        self.daily_routine = ["☕ Coffee", "💻 Code", "📺 Anime"]
-
-    def say_hi(self):
-        print("僕の仕事はコードを書くこと、趣味はアニメを見ること。")
-
-```
-
-<br/>
+<img align="right" src="src/bg1.gif" width="320" />
 
 - 🦞 Exploring **[OpenClaw](https://github.com/OpenClaw)** — embodied AI
 - 🎙️ Experienced in **Audio/Speech Large Model Dev**
@@ -105,24 +83,6 @@ class Echonoshy:
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=echonoshy&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/echonoshy/echonoshy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 😂 Random Dev Joke
 
