@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,19,25&height=150&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0abdc6,ea00d9,711c91,133e7c&height=150&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -19,9 +19,9 @@
 
 <p align="center">
   <a href="mailto:echonoshy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g=="><img src="https://img.shields.io/badge/Feishu-3370FF?style=for-the-badge&logo=bytedance&logoColor=white" /></a>
   <a href="https://space.bilibili.com/65742859"><img src="https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g=="><img src="https://img.shields.io/badge/Feishu-3370FF?style=for-the-badge&logo=bytedance&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ### TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,ts,go,bash,fastapi,flask,nodejs,docker,redis,postgres,git,github,vscode,vim,linux,aws&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,bun,fastapi,pytorch,docker,redis,postgres,gcp,ubuntu,git,github,githubactions,vim,bash,figma,devto,discord,emotion,gmail&theme=dark&perline=11" />
 </div>
 
 ---
@@ -58,11 +58,10 @@
 ### GITHUB STATS & STREAK
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=echonoshy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
   <img height="180" src="https://streak-stats.demolab.com?user=echonoshy&theme=radical&hide_border=true" />
 </div>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echonoshy&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </div>
 
 ---
@@ -70,9 +69,9 @@
 ### RANDOM JOKE
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="90%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,19,25&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=133e7c,711c91,ea00d9,0abdc6&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
