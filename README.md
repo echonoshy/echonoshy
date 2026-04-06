@@ -32,8 +32,7 @@
 
 ### ABOUT ME
 
-- I am currently focusing on **AGENT_SYS** and building **FUN_STUFF**.
-- I am constantly learning and exploring new technologies.
+- I am currently focusing on **AGENT_SYS** and building **LOVABLE_STUFF**.
 - Fun fact: *"青春忙于生活，认知忙于自省"*
 
 ---
