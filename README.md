@@ -17,6 +17,12 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="src/starling-profile.gif" width="96" alt="Starling Codex Pet" />
+  <br />
+  <sub>Starling is idle, greeting, building, and reviewing.</sub>
+</div>
+
 <p align="center">
   <a href="mailto:echonoshy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g=="><img src="https://img.shields.io/badge/Feishu-3370FF?style=for-the-badge&logo=bytedance&logoColor=white" /></a>
