@@ -12,15 +12,11 @@
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&height=100&lines=SYSTEM+READY...;HELLO,+I'M+ECHONOSHY.;WELCOME+TO+MY+WORKSPACE." alt="Typing SVG" />
         </a>
+        <br />
+        <img src="src/starling-profile.gif" width="96" alt="Starling Codex Pet" />
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="src/starling-profile.gif" width="96" alt="Starling Codex Pet" />
-  <br />
-  <sub>Starling is idle, greeting, building, and reviewing.</sub>
 </div>
 
 <p align="center">
