@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cloud-express-hd.png" />
-  <img src="assets/cloud-express-hd.webp" alt="下一站，做点有意思的。写代码，做产品，顺便把脑洞变成现实。列车驶过橘色云海。" width="100%" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cloud-express-hd.png?v=3" />
+  <img src="assets/cloud-express-hd.webp?v=3" alt="循光而行，予想象以形。在代码、影像与声音之间，持续探索。列车驶过橘色云海。" width="100%" />
 </picture>
 
 <p align="center">AI Agent · 视频创作 · 实时语音</p>
@@ -13,39 +13,35 @@
   <a href="https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
 </p>
 
-## 最近在做
+## 作品与实践
 
 ### [映芽 · Yingya](https://github.com/echonoshy/yingya)
 
-通过对话，把资料、想法和已有素材做成可以直接分享的视频。先看方案和关键画面，再用截图或时间点提出修改，最后分享链接或导出 MP4。
+以对话承接灵感，以影像呈现所想。围绕资料与素材，完成方案构思、关键画面预览与视频生成；支持截图及时间点反馈、链接分享和 MP4 导出。
 
-最近更新到 **0.4.0**，打磨了创作首页、作品目录和视频制作内核。
+**0.4.0** 更新：创作首页、作品目录与视频制作内核优化。
 
-[打开映芽 ↗](https://yingya.art/) &nbsp;·&nbsp; [看产品演示](https://youtu.be/DuEsvIO0zt4) &nbsp;·&nbsp; [源码](https://github.com/echonoshy/yingya)
+[产品体验 ↗](https://yingya.art/) &nbsp;·&nbsp; [演示视频](https://youtu.be/DuEsvIO0zt4) &nbsp;·&nbsp; [开源仓库](https://github.com/echonoshy/yingya)
 
-### 其他项目
+### 更多探索
 
 <table>
   <tr>
-    <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/vibe-motion">Vibe Motion ↗</a></strong><br /><sub>视频制作</sub></td>
-    <td>从一份 SRT 字幕出发，让 Codex 拆分镜头、生成动画，再渲染成片。<br /><sub>字幕 → 分镜 → 动画 → 视频</sub></td>
-  </tr>
-  <tr>
     <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/ripple">Ripple ↗</a></strong><br /><sub>Agent 工作空间</sub></td>
-    <td>把会话、文件、连接器和任务放在一起，在不同设备上接着工作。<br /><sub>Web · Desktop · Mobile</sub></td>
+    <td>整合会话、文件、连接器与任务的 AI Agent 工作空间，支持跨设备延续工作上下文。<br /><sub>Web · Desktop · Mobile</sub></td>
   </tr>
   <tr>
     <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/ripple-live">Ripple Live ↗</a></strong><br /><sub>实时语音助手</sub></td>
-    <td>在 Android 上边说边看，让中文对话留下记忆，也变成待办。<br /><sub>语音 · 视觉 · 记忆</sub></td>
+    <td>中文优先的 Android 实时语音助手，结合语音与视觉交互，从对话中提取记忆与待办。<br /><sub>语音 · 视觉 · 记忆</sub></td>
   </tr>
   <tr>
     <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/replica">Replica ↗</a></strong><br /><sub>AI 记忆层</sub></td>
-    <td>从对话中提取信息，跨会话找回相关上下文，让 AI 接得上之前的话。<br /><sub>信息提取 · 混合检索</sub></td>
+    <td>面向 AI 的跨会话记忆层，通过信息提取与混合检索，延续对话中的上下文。<br /><sub>信息提取 · 混合检索</sub></td>
   </tr>
 </table>
 
-## 代码之外，也留些记录
+## 观察与札记
 
-- **[市场数据](https://github.com/echonoshy/cn-market-daily)** · 自动采集、按日期归档，每天留一份快照。
-- **[思考与复盘](https://github.com/echonoshy/nonlinear-returns)** · 记下关于钱、AI、时间、复利与判断力的想法。
-- **[LLM 实践笔记](https://github.com/echonoshy/cgft-llm)** · 边学边做，把实验和学习过程留在这里。
+- **[市场数据](https://github.com/echonoshy/cn-market-daily)** · 按日采集与归档，持续记录市场数据。
+- **[思考与复盘](https://github.com/echonoshy/nonlinear-returns)** · 关于金钱、AI、时间、复利与判断力的观察与思考。
+- **[LLM 实践笔记](https://github.com/echonoshy/cgft-llm)** · 大语言模型的学习、实验与实践记录。

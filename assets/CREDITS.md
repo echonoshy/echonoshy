@@ -1,6 +1,6 @@
 # Cloud Express — profile banner
 
-A silent, eight-second looping banner rendered with Remotion and WebGL at 1920 × 840. The headline reads “下一站，做点有意思的。”
+A silent, eight-second looping banner rendered with Remotion and WebGL at 1920 × 840. The headline reads “循光而行，予想象以形。”
 
 The cloud, bridge and train shader is adapted from [Up in the Cloud Sea](https://people.tamu.edu/~choutianxius/csce646/pr01/index.html) by Tianxiu (Tyson) Zhou, whose source credits [mdb's ShaderToy work](https://www.shadertoy.com/view/Ndc3zl).
 
