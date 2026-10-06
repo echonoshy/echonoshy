@@ -1,77 +1,65 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0abdc6,ea00d9,711c91,133e7c&height=150&section=header&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="src/sunset.gif" width="280" alt="Sunset Pixel Art" />
-      </td>
-      <td align="center" width="500">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&height=100&lines=SYSTEM+READY...;HELLO,+I'M+ECHONOSHY.;WELCOME+TO+MY+WORKSPACE." alt="Typing SVG" />
-        </a>
-        <br />
-        <img src="src/starling-profile.gif" width="500" alt="Starry Avatar running animation" />
-      </td>
-    </tr>
-  </table>
-</div>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cloud-express.png" />
+  <img src="assets/cloud-express.gif" alt="echonoshy — 把想法做成能用的产品。列车驶过橘色云海。" width="100%" />
+</picture>
 
 <p align="center">
-  <a href="mailto:echonoshy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=7c0pc01a-60b9-4c7e-bcc4-ed5a2cab4625&unique_id=OQdBliNF4nT10nKMpk4g8g=="><img src="https://img.shields.io/badge/Feishu-3370FF?style=for-the-badge&logo=bytedance&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/65742859"><img src="https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  AI Agent · 视频创作 · 实时语音<br />
+  <sub>从一个想法开始，把它做出来，再慢慢打磨。</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=echonoshy&style=flat-square&color=FF79C6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://echonoshy.github.io">Blog</a> ·
+  <a href="mailto:echonoshy@gmail.com">Email</a> ·
+  <a href="https://space.bilibili.com/65742859">Bilibili</a> ·
+  <a href="https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA">YouTube</a>
 </p>
 
----
+## 最近在做
 
-### ABOUT ME
+### [映芽 · Yingya](https://github.com/echonoshy/yingya)
 
-- I am currently focusing on **AGENT_SYS** and building **LOVABLE_STUFF**.
-- Fun fact: *"青春忙于生活，认知忙于自省"*
+通过对话，把资料、想法和已有素材做成可以直接分享的视频。先看方案和关键画面，再用截图或时间点提出修改，最后分享链接或导出 MP4。
 
----
+最近更新到 **0.4.0**，打磨了创作首页、作品目录和视频制作内核。
 
-### TECH STACK
+[打开映芽 ↗](https://yingya.art/) &nbsp;·&nbsp; [看产品演示](https://youtu.be/DuEsvIO0zt4) &nbsp;·&nbsp; [源码](https://github.com/echonoshy/yingya)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,bun,fastapi,pytorch,docker,redis,postgres,gcp,ubuntu,git,github,githubactions,vim,bash,figma,devto,discord,emotion,gmail&theme=dark&perline=11" />
-</div>
+<br />
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/echonoshy/vibe-motion">Vibe Motion</a></h3>
+      <p>从 SRT 字幕到动态图形视频。由 Codex 拆分镜头、生成动画、渲染并拼接，让内容制作可以重复执行。</p>
+      <sub>字幕 → 分镜 → 动画</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/echonoshy/ripple">Ripple</a></h3>
+      <p>一个多端 AI Agent 工作空间。把会话、文件、连接器与任务放在一起，让长期工作能够接着做。</p>
+      <sub>Web · Desktop · Mobile</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/echonoshy/ripple-live">Ripple Live</a></h3>
+      <p>中文优先的实时语音助手。在 Android 上通过语音与画面交流，把对话留下来，成为记忆和待办。</p>
+      <sub>实时语音 · 视觉 · 记忆</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/echonoshy/replica">Replica</a></h3>
+      <p>为 AI 增加跨会话的记忆层。从对话中提取信息，再通过混合检索找回与当下相关的上下文。</p>
+      <sub>Memory layer for AI</sub>
+    </td>
+  </tr>
+</table>
 
-### GITHUB TROPHIES
+## 也在积累
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=echonoshy&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
+- [cn-market-daily](https://github.com/echonoshy/cn-market-daily) — 自动采集、按日期归档市场数据，持续更新。
+- [nonlinear-returns](https://github.com/echonoshy/nonlinear-returns) — 关于钱、AI、时间、复利与判断力的思考和复盘。
+- [cgft-llm](https://github.com/echonoshy/cgft-llm) — LLM 实践与学习记录。
 
----
+<br />
 
-### GITHUB STATS & STREAK
-
-<div align="center">
-
-  <img height="180" src="https://streak-stats.demolab.com?user=echonoshy&theme=radical&hide_border=true" />
-</div>
-<div align="center">
-</div>
-
----
-
-### RANDOM JOKE
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=133e7c,711c91,ea00d9,0abdc6&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+<p align="center"><sub>青春忙于生活，认知忙于自省。<br /><a href="assets/CREDITS.md">云间列车 · 视觉来源</a></sub></p>
