@@ -15,6 +15,14 @@
 
 ## 作品与实践
 
+### [open-fitness](https://github.com/echonoshy/open-fitness)
+
+桌面健身应用，把动作示范、训练计划和训练记录放在一起。深蹲、俯卧撑等动作支持自动计次，也可接入语音教练，在训练时提问或调整目标。
+
+提供 Apple 芯片 Mac、Intel Mac 和 Windows x64 安装包。基础训练无需 API Key，在线语音教练需配置自己的 Key。
+
+[项目官网 ↗](https://echonoshy.github.io/open-fitness/) &nbsp;·&nbsp; [68 秒功能演示](https://echonoshy.github.io/open-fitness/#demo) &nbsp;·&nbsp; [桌面版下载](https://github.com/echonoshy/open-fitness/releases/latest) &nbsp;·&nbsp; [项目仓库](https://github.com/echonoshy/open-fitness)
+
 ### [映芽 · Yingya](https://github.com/echonoshy/yingya)
 
 以对话承接灵感，以影像呈现所想。围绕资料与素材，完成方案构思、关键画面预览与视频生成；支持截图及时间点反馈、链接分享和 MP4 导出。
