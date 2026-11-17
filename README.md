@@ -13,43 +13,17 @@
   <a href="https://www.youtube.com/channel/UCZAq9xDn_IxlW9iCZpV6fqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
 </p>
 
-## 作品与实践
+## 项目
 
-### [open-fitness](https://github.com/echonoshy/open-fitness)
-
-桌面健身应用，把动作示范、训练计划和训练记录放在一起。深蹲、俯卧撑等动作支持自动计次，也可接入语音教练，在训练时提问或调整目标。
-
-提供 Apple 芯片 Mac、Intel Mac 和 Windows x64 安装包。基础训练无需 API Key，在线语音教练需配置自己的 Key。
-
-[项目官网 ↗](https://echonoshy.github.io/open-fitness/) &nbsp;·&nbsp; [68 秒功能演示](https://echonoshy.github.io/open-fitness/#demo) &nbsp;·&nbsp; [桌面版下载](https://github.com/echonoshy/open-fitness/releases/latest) &nbsp;·&nbsp; [项目仓库](https://github.com/echonoshy/open-fitness)
-
-### [映芽 · Yingya](https://github.com/echonoshy/yingya)
-
-以对话承接灵感，以影像呈现所想。围绕资料与素材，完成方案构思、关键画面预览与视频生成；支持截图及时间点反馈、链接分享和 MP4 导出。
-
-**0.4.0** 更新：创作首页、作品目录与视频制作内核优化。
-
-[产品体验 ↗](https://yingya.art/) &nbsp;·&nbsp; [演示视频](https://youtu.be/DuEsvIO0zt4) &nbsp;·&nbsp; [开源仓库](https://github.com/echonoshy/yingya)
-
-### 更多探索
-
-<table>
-  <tr>
-    <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/ripple">Ripple ↗</a></strong><br /><sub>Agent 工作空间</sub></td>
-    <td>整合会话、文件、连接器与任务的 AI Agent 工作空间，支持跨设备延续工作上下文。<br /><sub>Web · Desktop · Mobile</sub></td>
-  </tr>
-  <tr>
-    <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/ripple-live">Ripple Live ↗</a></strong><br /><sub>实时语音助手</sub></td>
-    <td>中文优先的 Android 实时语音助手，结合语音与视觉交互，从对话中提取记忆与待办。<br /><sub>语音 · 视觉 · 记忆</sub></td>
-  </tr>
-  <tr>
-    <td width="155" valign="top"><strong><a href="https://github.com/echonoshy/replica">Replica ↗</a></strong><br /><sub>AI 记忆层</sub></td>
-    <td>面向 AI 的跨会话记忆层，通过信息提取与混合检索，延续对话中的上下文。<br /><sub>信息提取 · 混合检索</sub></td>
-  </tr>
-</table>
-
-## 观察与札记
-
-- **[市场数据](https://github.com/echonoshy/cn-market-daily)** · 按日采集与归档，持续记录市场数据。
-- **[思考与复盘](https://github.com/echonoshy/nonlinear-returns)** · 关于金钱、AI、时间、复利与判断力的观察与思考。
-- **[LLM 实践笔记](https://github.com/echonoshy/cgft-llm)** · 大语言模型的学习、实验与实践记录。
+- **[open-fitness](https://github.com/echonoshy/open-fitness)** · 用电脑摄像头给深蹲、俯卧撑计次，练完能回看每组记录。[看演示](https://echonoshy.github.io/open-fitness/#demo) · [下载](https://github.com/echonoshy/open-fitness/releases/latest)
+- **[映芽 Yingya](https://github.com/echonoshy/yingya)** · 把文章或素材做成短片，在对话里指定哪一秒要改。[试用](https://yingya.art/) · [看演示](https://youtu.be/DuEsvIO0zt4)
+- **[Ripple](https://github.com/echonoshy/ripple)** · 在网页、桌面和手机上接着用同一个 Codex 会话，查看文件和任务。
+- **[Ripple Live](https://github.com/echonoshy/ripple-live)** · 在 Android 上边拍边聊，让语音助手记下对话里的待办。
+- **[Replica](https://github.com/echonoshy/replica)** · 从聊天里提取事实和偏好，供 AI 在下次对话时检索。
+- **[mic-on](https://github.com/echonoshy/mic-on)** · 戴在身上的 ESP32 语音终端，按键就能和 GPT-Live 对话。
+- **[D.VA](https://github.com/echonoshy/d.va)** · 给几个关键词，生成一段多人播客，可以为每个角色选音色。
+- **[听舒 Tingshu](https://github.com/echonoshy/tingshu)** · 用语音合成制作有声书，打开网页就能按章节收听。[试听](https://echonoshy.github.io/tingshu/web/)
+- **[cgft-llm](https://github.com/echonoshy/cgft-llm)** · 跟着中文视频和示例代码部署、微调大模型，用自己的文档搭建 RAG 知识库。
+- **[FloodNet Segmentation](https://github.com/echonoshy/floodnet-segmentation)** · 在洪灾航拍图上对比三种语义分割模型，逐图查看预测结果。
+- **[cn-market-daily](https://github.com/echonoshy/cn-market-daily)** · 按日归档市场数据，可以按日期查成交额、市值和换手率。
+- **[非线性回报](https://github.com/echonoshy/nonlinear-returns)** · 把关于努力、收入和 AI 定价的讨论整理成分期图解。
